@@ -19,6 +19,12 @@ export default function handler(req, res) {
                 size: "Large",
                 created: "2023-03-01 12:00:00",
             },
+            {
+                id: 4,
+                name: "ruben",
+                size: "Large",
+                created: "2023-03-01 12:00:00",
+            },
         ],
     });
 }
